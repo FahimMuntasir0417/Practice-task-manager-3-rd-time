@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+task_env/
+*.sqlite3
+*.log
+*.env
+*/migrations/
+config.bat
+node_modules
